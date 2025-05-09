@@ -1,0 +1,139 @@
+==== GAME SESSION START ====
+Start Time: 2025-04-18 17:32:37
+
+TRIVIA QUESTION: Why are bees called 'nature's tiny superheroes'?
+Selected Answer: 3
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 4ms
+
+==== GAME SESSION START ====
+Start Time: 2025-04-18 17:33:03
+
+TRIVIA QUESTION: What sticks to bees when they visit flowers, helping plants grow?
+Selected Answer: 3
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 5ms
+
+TRIVIA QUESTION: What happens when bees lose their habitats?
+Selected Answer: 2
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 4ms
+
+TRIVIA QUESTION: Which of these is not a predator or danger to bees?
+Selected Answer: 4
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 4ms
+
+==== GAME SESSION START ====
+Start Time: 2025-04-18 17:33:54
+
+Final Game Score: 11570 points
+Game Over Time: 2025-04-18 17:34:06
+Total Game Duration: 0m 12s 442ms
+
+============================
+
+==== GAME SESSION START ====
+Start Time: 2025-04-18 20:57:14
+
+TRIVIA QUESTION: What are some jobs that worker bees do every day?
+Selected Answer: 3
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 5ms
+
+==== GAME SESSION START ====
+Start Time: 2025-04-18 20:58:01
+
+==== GAME SESSION START ====
+Start Time: 2025-04-18 20:58:15
+
+TRIVIA QUESTION: Which of these is not a predator or danger to bees?
+Selected Answer: 4
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 4ms
+
+Final Game Score: 5360 points
+Game Over Time: 2025-04-18 20:58:44
+Total Game Duration: 0m 28s 311ms
+
+============================
+
+==== GAME SESSION START ====
+Start Time: 2025-04-21 16:43:26
+
+TRIVIA QUESTION: Which insect attacks beehives and tries to take over?
+Selected Answer: 1
+Result: INCORRECT
+
+==== GAME SESSION START ====
+Start Time: 2025-04-21 16:44:34
+
+TRIVIA QUESTION: What is one thing humans do that makes life hard for bees?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 17s 505ms
+
+TRIVIA QUESTION: How can climate change confuse bees?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 1s 141ms
+
+TRIVIA QUESTION: Who is the boss of the hive and lays all the eggs?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 0s 832ms
+
+TRIVIA QUESTION: What is the main job of drone bees?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 0s 990ms
+
+TRIVIA QUESTION: What happens when bees lose their habitats?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 0s 792ms
+
+TRIVIA QUESTION: Why do bees visit flowers? What do they collect?
+Selected Answer: 1
+Result: INCORRECT
+
+Time spent on explanation: 0m 0s 829ms
+
+TRIVIA QUESTION: Which bug sneaks into hives and ruins the honey?
+Selected Answer: 1
+Result: CORRECT
+
+Time spent on explanation: 0m 25s 343ms
+
+==== GAME SESSION START ====
+Start Time: 2025-04-21 16:47:20
+
+==== GAME SESSION START ====
+Start Time: 2025-04-21 19:58:59
+
+TRIVIA QUESTION: How much of our food comes from pollinators like bees?
+Selected Answer: 2
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 6ms
+
+TRIVIA QUESTION: Why are bees called 'nature's tiny superheroes'?
+Selected Answer: 3
+Result: CORRECT
+
+Time spent on explanation: 0m 0s 6ms
+
+==== GAME SESSION START ====
+Start Time: 2025-04-21 19:59:29
+
