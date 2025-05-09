@@ -1,4 +1,4 @@
-# Bee-Sustainable
+# Bee Sustainable
 
 ## Technical Overview
 This project implements a bee-themed Pacman game using C++ and SFML with Arduino hardware integration. The game runs at 60fps with sprite-based rendering, custom animation states, and serial communication to a physical controller.
